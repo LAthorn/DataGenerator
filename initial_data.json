@@ -1,0 +1,83 @@
+[
+    {
+        "model": "core.User",
+        "pk": 1,
+        "fields": {
+            "name": "Laura Thorn",
+            "password": "dummy",
+            "email": "laura@evident.studio",
+            "username": "laura@evident.studio",
+            "display_name": "laura",
+            "updated_at": "2024-04-23T00:00:00Z",
+            "created_at": "2024-04-22T00:00:00Z"
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 1,
+        "fields": {
+            "name": "PathoGenix",
+            "created_by": 1,
+            "updated_by": 1,
+            "updated_at": "2024-04-23T00:00:00Z",
+            "created_at": "2024-04-22T00:00:00Z"
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 2,
+        "fields": {
+            "name": "Ethereal Innovations",
+            "created_by": 1,
+            "updated_by": 1,
+            "updated_at": "2024-04-23T00:00:00Z",
+            "created_at": "2024-04-22T00:00:00Z"
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 2,
+        "fields": {
+            "name": "Yassire Elhani",
+            "password": "dummy",
+            "email": "yassire@evident.studio",
+            "username": "yassire@evident.studio",
+            "display_name": "yassire",
+            "created_at": "2024-04-23T00:00:00Z",
+            "updated_at": "2024-04-23T00:00:00Z",
+            "organisation": 2,
+            "created_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 3,
+        "fields": {
+            "name": "Mark Thomsit",
+            "password": "dummy",
+            "email": "mark@evident.studio",
+            "username": "mark@evident.studio",
+            "display_name": "mark",
+            "created_at": "2024-04-23T00:00:00Z",
+            "updated_at": "2024-04-23T00:00:00Z",
+            "organisation": 2,
+            "created_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 4,
+        "fields": {
+            "name": "Sid Haniff",
+            "password": "dummy",
+            "email": "sid@evident.studio",
+            "username": "sid@evident.studio",
+            "display_name": "sid",
+            "created_at": "2024-04-23T00:00:00Z",
+            "updated_at": "2024-04-23T00:00:00Z",
+            "organisation": 2,
+            "created_by": 1
+        }
+    }
+]
+
