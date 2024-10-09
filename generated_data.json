@@ -1,1 +1,1917 @@
-[{"model": "core.User", "pk": 1, "fields": {"name": "Admin User", "email": "AdminUser@geneticsinc.com", "username": "AdminUser@geneticsinc.com", "display_name": "Admin User", "created_at": "2024-07-25 12:09:44.817421+01:00", "updated_at": "2024-07-25 12:09:44.817421+01:00", "created_by": 1, "organisation_id": null, "updated_by": 1}}, {"model": "core.Organisation", "pk": 0, "fields": {"name": "GeneHorizon", "description": "Expanding the boundaries of genetic possibilities.", "created_at": "2023-11-02 17:50:24.878300+00:00", "created_by": 1, "updated_at": "2023-11-02 17:50:24.878300+00:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 2, "fields": {"name": "Joshua Wright", "email": "joshuawright@genehorizon.com", "username": "joshuawright@genehorizon.com", "display_name": "Joshua Wright", "created_at": "2024-02-28 16:36:18.175375+00:00", "updated_at": "2024-02-28 16:36:18.175375+00:00", "created_by": 1, "organisation_id": 0, "updated_by": 1}}, {"model": "core.User", "pk": 3, "fields": {"name": "Ross Porter", "email": "rossporter@genehorizon.com", "username": "rossporter@genehorizon.com", "display_name": "Ross Porter", "created_at": "2024-06-22 18:30:13.186919+01:00", "updated_at": "2024-06-22 18:30:13.186919+01:00", "created_by": 1, "organisation_id": 0, "updated_by": 1}}, {"model": "core.User", "pk": 4, "fields": {"name": "Bethany Hussain", "email": "bethanyhussain@genehorizon.com", "username": "bethanyhussain@genehorizon.com", "display_name": "Bethany Hussain", "created_at": "2024-05-26 23:35:19.892326+01:00", "updated_at": "2024-05-26 23:35:19.892326+01:00", "created_by": 1, "organisation_id": 0, "updated_by": 1}}, {"model": "core.User", "pk": 5, "fields": {"name": "Antony Jackson", "email": "antonyjackson@genehorizon.com", "username": "antonyjackson@genehorizon.com", "display_name": "Antony Jackson", "created_at": "2024-08-10 15:12:49.933598+01:00", "updated_at": "2024-08-10 15:12:49.933598+01:00", "created_by": 1, "organisation_id": 0, "updated_by": 1}}, {"model": "core.User", "pk": 6, "fields": {"name": "Rhys Kerr", "email": "rhyskerr@genehorizon.com", "username": "rhyskerr@genehorizon.com", "display_name": "Rhys Kerr", "created_at": "2024-07-21 23:09:20.283658+01:00", "updated_at": "2024-07-21 23:09:20.283658+01:00", "created_by": 1, "organisation_id": 0, "updated_by": 1}}, {"model": "core.User", "pk": 7, "fields": {"name": "Anna Greenwood", "email": "annagreenwood@genehorizon.com", "username": "annagreenwood@genehorizon.com", "display_name": "Anna Greenwood", "created_at": "2024-07-27 03:24:47.909619+01:00", "updated_at": "2024-07-27 03:24:47.909619+01:00", "created_by": 1, "organisation_id": 0, "updated_by": 1}}, {"model": "core.User", "pk": 8, "fields": {"name": "Dr Josh Wright", "email": "drjoshwright@genehorizon.com", "username": "drjoshwright@genehorizon.com", "display_name": "Dr Josh Wright", "created_at": "2024-06-10 22:23:02.689490+01:00", "updated_at": "2024-06-10 22:23:02.689490+01:00", "created_by": 1, "organisation_id": 0, "updated_by": 1}}, {"model": "core.User", "pk": 9, "fields": {"name": "Ms Julia Jones", "email": "msjuliajones@genehorizon.com", "username": "msjuliajones@genehorizon.com", "display_name": "Ms Julia Jones", "created_at": "2024-06-08 11:29:50.932791+01:00", "updated_at": "2024-06-08 11:29:50.932791+01:00", "created_by": 1, "organisation_id": 0, "updated_by": 1}}, {"model": "core.Organisation", "pk": 1, "fields": {"name": "GeneFutures", "description": "Pioneering personalized genomics for tomorrow's health.", "created_at": "2023-11-29 15:09:22.288230+00:00", "created_by": 1, "updated_at": "2023-11-29 15:09:22.288230+00:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 10, "fields": {"name": "Francis Ward", "email": "francisward@genefutures.com", "username": "francisward@genefutures.com", "display_name": "Francis Ward", "created_at": "2024-01-29 11:12:47.682751+00:00", "updated_at": "2024-01-29 11:12:47.682751+00:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.User", "pk": 11, "fields": {"name": "Craig Young", "email": "craigyoung@genefutures.com", "username": "craigyoung@genefutures.com", "display_name": "Craig Young", "created_at": "2023-11-06 15:16:29.700340+00:00", "updated_at": "2023-11-06 15:16:29.700340+00:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.User", "pk": 12, "fields": {"name": "Mr Leonard Gray", "email": "mrleonardgray@genefutures.com", "username": "mrleonardgray@genefutures.com", "display_name": "Mr Leonard Gray", "created_at": "2024-01-25 00:23:09.057212+00:00", "updated_at": "2024-01-25 00:23:09.057212+00:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.User", "pk": 13, "fields": {"name": "Dr James Mitchell", "email": "drjamesmitchell@genefutures.com", "username": "drjamesmitchell@genefutures.com", "display_name": "Dr James Mitchell", "created_at": "2024-06-11 06:49:35.639904+01:00", "updated_at": "2024-06-11 06:49:35.639904+01:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.User", "pk": 14, "fields": {"name": "Ms Beth Stephens", "email": "msbethstephens@genefutures.com", "username": "msbethstephens@genefutures.com", "display_name": "Ms Beth Stephens", "created_at": "2023-12-01 11:03:32.747546+00:00", "updated_at": "2023-12-01 11:03:32.747546+00:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.User", "pk": 15, "fields": {"name": "Laura Hope", "email": "laurahope@genefutures.com", "username": "laurahope@genefutures.com", "display_name": "Laura Hope", "created_at": "2023-11-04 10:57:14.790341+00:00", "updated_at": "2023-11-04 10:57:14.790341+00:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.User", "pk": 16, "fields": {"name": "Rita Hall", "email": "ritahall@genefutures.com", "username": "ritahall@genefutures.com", "display_name": "Rita Hall", "created_at": "2024-04-06 00:12:47.701139+01:00", "updated_at": "2024-04-06 00:12:47.701139+01:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.User", "pk": 17, "fields": {"name": "Christine Smith-Turner", "email": "christinesmith-turner@genefutures.com", "username": "christinesmith-turner@genefutures.com", "display_name": "Christine Smith-Turner", "created_at": "2024-07-23 07:36:06.038008+01:00", "updated_at": "2024-07-23 07:36:06.038008+01:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.User", "pk": 18, "fields": {"name": "Natalie Turner", "email": "natalieturner@genefutures.com", "username": "natalieturner@genefutures.com", "display_name": "Natalie Turner", "created_at": "2024-04-19 04:19:43.164831+01:00", "updated_at": "2024-04-19 04:19:43.164831+01:00", "created_by": 1, "organisation_id": 1, "updated_by": 1}}, {"model": "core.Organisation", "pk": 2, "fields": {"name": "BioNexus", "description": "Connecting biology with cutting-edge data science.", "created_at": "2024-01-16 11:35:26.997677+00:00", "created_by": 1, "updated_at": "2024-01-16 11:35:26.997677+00:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 19, "fields": {"name": "Derek Parkin-Patel", "email": "derekparkin-patel@bionexus.com", "username": "derekparkin-patel@bionexus.com", "display_name": "Derek Parkin-Patel", "created_at": "2024-07-20 16:58:08.495101+01:00", "updated_at": "2024-07-20 16:58:08.495101+01:00", "created_by": 1, "organisation_id": 2, "updated_by": 1}}, {"model": "core.User", "pk": 20, "fields": {"name": "Mr Derek Kelly", "email": "mrderekkelly@bionexus.com", "username": "mrderekkelly@bionexus.com", "display_name": "Mr Derek Kelly", "created_at": "2024-05-01 07:47:42.880147+01:00", "updated_at": "2024-05-01 07:47:42.880147+01:00", "created_by": 1, "organisation_id": 2, "updated_by": 1}}, {"model": "core.User", "pk": 21, "fields": {"name": "Peter Wheeler", "email": "peterwheeler@bionexus.com", "username": "peterwheeler@bionexus.com", "display_name": "Peter Wheeler", "created_at": "2024-03-26 10:14:50.637435+00:00", "updated_at": "2024-03-26 10:14:50.637435+00:00", "created_by": 1, "organisation_id": 2, "updated_by": 1}}, {"model": "core.Organisation", "pk": 3, "fields": {"name": "GenoMap", "description": "Navigating the landscape of genetic information.", "created_at": "2023-10-12 02:46:45.691919+01:00", "created_by": 1, "updated_at": "2023-10-12 02:46:45.691919+01:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 22, "fields": {"name": "Barbara Elliott", "email": "barbaraelliott@genomap.com", "username": "barbaraelliott@genomap.com", "display_name": "Barbara Elliott", "created_at": "2024-06-22 03:12:58.206169+01:00", "updated_at": "2024-06-22 03:12:58.206169+01:00", "created_by": 1, "organisation_id": 3, "updated_by": 1}}, {"model": "core.User", "pk": 23, "fields": {"name": "Dr Ronald Shaw", "email": "drronaldshaw@genomap.com", "username": "drronaldshaw@genomap.com", "display_name": "Dr Ronald Shaw", "created_at": "2024-06-01 21:26:31.545720+01:00", "updated_at": "2024-06-01 21:26:31.545720+01:00", "created_by": 1, "organisation_id": 3, "updated_by": 1}}, {"model": "core.User", "pk": 24, "fields": {"name": "Heather Francis", "email": "heatherfrancis@genomap.com", "username": "heatherfrancis@genomap.com", "display_name": "Heather Francis", "created_at": "2023-12-17 19:32:18.762179+00:00", "updated_at": "2023-12-17 19:32:18.762179+00:00", "created_by": 1, "organisation_id": 3, "updated_by": 1}}, {"model": "core.User", "pk": 25, "fields": {"name": "Marilyn Hughes", "email": "marilynhughes@genomap.com", "username": "marilynhughes@genomap.com", "display_name": "Marilyn Hughes", "created_at": "2023-09-15 17:12:51.534661+01:00", "updated_at": "2023-09-15 17:12:51.534661+01:00", "created_by": 1, "organisation_id": 3, "updated_by": 1}}, {"model": "core.User", "pk": 26, "fields": {"name": "Ms Kerry Taylor", "email": "mskerrytaylor@genomap.com", "username": "mskerrytaylor@genomap.com", "display_name": "Ms Kerry Taylor", "created_at": "2024-01-16 08:35:00.745988+00:00", "updated_at": "2024-01-16 08:35:00.745988+00:00", "created_by": 1, "organisation_id": 3, "updated_by": 1}}, {"model": "core.User", "pk": 27, "fields": {"name": "Brian Campbell", "email": "briancampbell@genomap.com", "username": "briancampbell@genomap.com", "display_name": "Brian Campbell", "created_at": "2024-05-07 15:31:16.697089+01:00", "updated_at": "2024-05-07 15:31:16.697089+01:00", "created_by": 1, "organisation_id": 3, "updated_by": 1}}, {"model": "core.User", "pk": 28, "fields": {"name": "Mrs Sheila Lowe", "email": "mrssheilalowe@genomap.com", "username": "mrssheilalowe@genomap.com", "display_name": "Mrs Sheila Lowe", "created_at": "2023-11-24 16:36:00.174896+00:00", "updated_at": "2023-11-24 16:36:00.174896+00:00", "created_by": 1, "organisation_id": 3, "updated_by": 1}}, {"model": "core.User", "pk": 29, "fields": {"name": "Laura Brown", "email": "laurabrown@genomap.com", "username": "laurabrown@genomap.com", "display_name": "Laura Brown", "created_at": "2024-07-01 05:01:50.720608+01:00", "updated_at": "2024-07-01 05:01:50.720608+01:00", "created_by": 1, "organisation_id": 3, "updated_by": 1}}, {"model": "core.Organisation", "pk": 4, "fields": {"name": "DNARevolution", "description": "Transforming lives through gene editing innovations.", "created_at": "2024-05-28 19:24:42.394252+01:00", "created_by": 1, "updated_at": "2024-05-28 19:24:42.394252+01:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 30, "fields": {"name": "Dr Jeffrey Hartley", "email": "drjeffreyhartley@dnarevolution.com", "username": "drjeffreyhartley@dnarevolution.com", "display_name": "Dr Jeffrey Hartley", "created_at": "2023-12-03 16:22:20.419488+00:00", "updated_at": "2023-12-03 16:22:20.419488+00:00", "created_by": 1, "organisation_id": 4, "updated_by": 1}}, {"model": "core.User", "pk": 31, "fields": {"name": "Damien Clark", "email": "damienclark@dnarevolution.com", "username": "damienclark@dnarevolution.com", "display_name": "Damien Clark", "created_at": "2023-09-27 20:58:30.885615+01:00", "updated_at": "2023-09-27 20:58:30.885615+01:00", "created_by": 1, "organisation_id": 4, "updated_by": 1}}, {"model": "core.User", "pk": 32, "fields": {"name": "Jessica Fraser-Smith", "email": "jessicafraser-smith@dnarevolution.com", "username": "jessicafraser-smith@dnarevolution.com", "display_name": "Jessica Fraser-Smith", "created_at": "2024-05-21 19:44:07.890058+01:00", "updated_at": "2024-05-21 19:44:07.890058+01:00", "created_by": 1, "organisation_id": 4, "updated_by": 1}}, {"model": "core.User", "pk": 33, "fields": {"name": "Luke Sheppard", "email": "lukesheppard@dnarevolution.com", "username": "lukesheppard@dnarevolution.com", "display_name": "Luke Sheppard", "created_at": "2024-06-23 15:20:55.772803+01:00", "updated_at": "2024-06-23 15:20:55.772803+01:00", "created_by": 1, "organisation_id": 4, "updated_by": 1}}, {"model": "core.User", "pk": 34, "fields": {"name": "Eleanor Bartlett", "email": "eleanorbartlett@dnarevolution.com", "username": "eleanorbartlett@dnarevolution.com", "display_name": "Eleanor Bartlett", "created_at": "2024-05-02 10:18:43.766230+01:00", "updated_at": "2024-05-02 10:18:43.766230+01:00", "created_by": 1, "organisation_id": 4, "updated_by": 1}}, {"model": "core.User", "pk": 35, "fields": {"name": "Mandy Winter", "email": "mandywinter@dnarevolution.com", "username": "mandywinter@dnarevolution.com", "display_name": "Mandy Winter", "created_at": "2023-10-22 02:30:52.543360+01:00", "updated_at": "2023-10-22 02:30:52.543360+01:00", "created_by": 1, "organisation_id": 4, "updated_by": 1}}, {"model": "core.User", "pk": 36, "fields": {"name": "Alice Patel", "email": "alicepatel@dnarevolution.com", "username": "alicepatel@dnarevolution.com", "display_name": "Alice Patel", "created_at": "2024-07-30 19:37:46.330199+01:00", "updated_at": "2024-07-30 19:37:46.330199+01:00", "created_by": 1, "organisation_id": 4, "updated_by": 1}}, {"model": "core.Organisation", "pk": 5, "fields": {"name": "SeqStream", "description": "Seamlessly integrating sequencing technologies.", "created_at": "2023-12-26 07:48:31.041703+00:00", "created_by": 1, "updated_at": "2023-12-26 07:48:31.041703+00:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 37, "fields": {"name": "Ms Yvonne Day", "email": "msyvonneday@seqstream.com", "username": "msyvonneday@seqstream.com", "display_name": "Ms Yvonne Day", "created_at": "2024-06-07 23:00:45.986893+01:00", "updated_at": "2024-06-07 23:00:45.986893+01:00", "created_by": 1, "organisation_id": 5, "updated_by": 1}}, {"model": "core.User", "pk": 38, "fields": {"name": "Victor Scott", "email": "victorscott@seqstream.com", "username": "victorscott@seqstream.com", "display_name": "Victor Scott", "created_at": "2024-06-02 05:26:38.896531+01:00", "updated_at": "2024-06-02 05:26:38.896531+01:00", "created_by": 1, "organisation_id": 5, "updated_by": 1}}, {"model": "core.Organisation", "pk": 6, "fields": {"name": "GenoHealth", "description": "Enhancing wellness through genetic insights.", "created_at": "2023-12-07 05:27:26.059336+00:00", "created_by": 1, "updated_at": "2023-12-07 05:27:26.059336+00:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 39, "fields": {"name": "Dr Iain Shepherd", "email": "driainshepherd@genohealth.com", "username": "driainshepherd@genohealth.com", "display_name": "Dr Iain Shepherd", "created_at": "2024-04-10 11:03:35.714807+01:00", "updated_at": "2024-04-10 11:03:35.714807+01:00", "created_by": 1, "organisation_id": 6, "updated_by": 1}}, {"model": "core.User", "pk": 40, "fields": {"name": "Gerald White-Talbot", "email": "geraldwhite-talbot@genohealth.com", "username": "geraldwhite-talbot@genohealth.com", "display_name": "Gerald White-Talbot", "created_at": "2023-11-07 00:45:54.854078+00:00", "updated_at": "2023-11-07 00:45:54.854078+00:00", "created_by": 1, "organisation_id": 6, "updated_by": 1}}, {"model": "core.User", "pk": 41, "fields": {"name": "Ms Marilyn Hill", "email": "msmarilynhill@genohealth.com", "username": "msmarilynhill@genohealth.com", "display_name": "Ms Marilyn Hill", "created_at": "2024-08-07 14:44:03.396633+01:00", "updated_at": "2024-08-07 14:44:03.396633+01:00", "created_by": 1, "organisation_id": 6, "updated_by": 1}}, {"model": "core.User", "pk": 42, "fields": {"name": "Nathan Parry", "email": "nathanparry@genohealth.com", "username": "nathanparry@genohealth.com", "display_name": "Nathan Parry", "created_at": "2024-03-28 10:38:44.074320+00:00", "updated_at": "2024-03-28 10:38:44.074320+00:00", "created_by": 1, "organisation_id": 6, "updated_by": 1}}, {"model": "core.User", "pk": 43, "fields": {"name": "Dr Leslie Pugh", "email": "drlesliepugh@genohealth.com", "username": "drlesliepugh@genohealth.com", "display_name": "Dr Leslie Pugh", "created_at": "2024-05-13 13:23:05.634570+01:00", "updated_at": "2024-05-13 13:23:05.634570+01:00", "created_by": 1, "organisation_id": 6, "updated_by": 1}}, {"model": "core.User", "pk": 44, "fields": {"name": "Francesca Talbot", "email": "francescatalbot@genohealth.com", "username": "francescatalbot@genohealth.com", "display_name": "Francesca Talbot", "created_at": "2023-12-18 15:32:39.099178+00:00", "updated_at": "2023-12-18 15:32:39.099178+00:00", "created_by": 1, "organisation_id": 6, "updated_by": 1}}, {"model": "core.Organisation", "pk": 7, "fields": {"name": "BioCode", "description": "Decoding the secrets of the human genome.", "created_at": "2024-08-04 01:32:07.403914+01:00", "created_by": 1, "updated_at": "2024-08-04 01:32:07.403914+01:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 45, "fields": {"name": "Dr Aimee Baxter", "email": "draimeebaxter@biocode.com", "username": "draimeebaxter@biocode.com", "display_name": "Dr Aimee Baxter", "created_at": "2023-11-08 00:59:05.057384+00:00", "updated_at": "2023-11-08 00:59:05.057384+00:00", "created_by": 1, "organisation_id": 7, "updated_by": 1}}, {"model": "core.User", "pk": 46, "fields": {"name": "Miss Jodie Day", "email": "missjodieday@biocode.com", "username": "missjodieday@biocode.com", "display_name": "Miss Jodie Day", "created_at": "2024-02-09 20:30:51.414548+00:00", "updated_at": "2024-02-09 20:30:51.414548+00:00", "created_by": 1, "organisation_id": 7, "updated_by": 1}}, {"model": "core.User", "pk": 47, "fields": {"name": "Jordan Jones", "email": "jordanjones@biocode.com", "username": "jordanjones@biocode.com", "display_name": "Jordan Jones", "created_at": "2024-03-30 01:50:45.691776+00:00", "updated_at": "2024-03-30 01:50:45.691776+00:00", "created_by": 1, "organisation_id": 7, "updated_by": 1}}, {"model": "core.User", "pk": 48, "fields": {"name": "Clifford Martin", "email": "cliffordmartin@biocode.com", "username": "cliffordmartin@biocode.com", "display_name": "Clifford Martin", "created_at": "2024-01-14 23:05:40.098994+00:00", "updated_at": "2024-01-14 23:05:40.098994+00:00", "created_by": 1, "organisation_id": 7, "updated_by": 1}}, {"model": "core.User", "pk": 49, "fields": {"name": "Gavin Saunders-Charlton", "email": "gavinsaunders-charlton@biocode.com", "username": "gavinsaunders-charlton@biocode.com", "display_name": "Gavin Saunders-Charlton", "created_at": "2023-09-20 11:02:46.258346+01:00", "updated_at": "2023-09-20 11:02:46.258346+01:00", "created_by": 1, "organisation_id": 7, "updated_by": 1}}, {"model": "core.User", "pk": 50, "fields": {"name": "Iain Donnelly", "email": "iaindonnelly@biocode.com", "username": "iaindonnelly@biocode.com", "display_name": "Iain Donnelly", "created_at": "2024-06-07 02:54:29.081241+01:00", "updated_at": "2024-06-07 02:54:29.081241+01:00", "created_by": 1, "organisation_id": 7, "updated_by": 1}}, {"model": "core.User", "pk": 51, "fields": {"name": "Louis Norton", "email": "louisnorton@biocode.com", "username": "louisnorton@biocode.com", "display_name": "Louis Norton", "created_at": "2023-12-07 15:33:06.450946+00:00", "updated_at": "2023-12-07 15:33:06.450946+00:00", "created_by": 1, "organisation_id": 7, "updated_by": 1}}, {"model": "core.Organisation", "pk": 8, "fields": {"name": "HelixHaven", "description": "Your partner in advanced genetic research.", "created_at": "2024-02-18 08:23:21.469745+00:00", "created_by": 1, "updated_at": "2024-02-18 08:23:21.469745+00:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 52, "fields": {"name": "Julian Owen", "email": "julianowen@helixhaven.com", "username": "julianowen@helixhaven.com", "display_name": "Julian Owen", "created_at": "2023-11-06 18:36:01.501667+00:00", "updated_at": "2023-11-06 18:36:01.501667+00:00", "created_by": 1, "organisation_id": 8, "updated_by": 1}}, {"model": "core.User", "pk": 53, "fields": {"name": "Stephanie Dobson", "email": "stephaniedobson@helixhaven.com", "username": "stephaniedobson@helixhaven.com", "display_name": "Stephanie Dobson", "created_at": "2024-01-28 04:01:04.546514+00:00", "updated_at": "2024-01-28 04:01:04.546514+00:00", "created_by": 1, "organisation_id": 8, "updated_by": 1}}, {"model": "core.User", "pk": 54, "fields": {"name": "Kevin Griffiths", "email": "kevingriffiths@helixhaven.com", "username": "kevingriffiths@helixhaven.com", "display_name": "Kevin Griffiths", "created_at": "2023-09-25 02:56:58.736910+01:00", "updated_at": "2023-09-25 02:56:58.736910+01:00", "created_by": 1, "organisation_id": 8, "updated_by": 1}}, {"model": "core.User", "pk": 55, "fields": {"name": "Jake Knowles", "email": "jakeknowles@helixhaven.com", "username": "jakeknowles@helixhaven.com", "display_name": "Jake Knowles", "created_at": "2024-05-02 05:05:11.196327+01:00", "updated_at": "2024-05-02 05:05:11.196327+01:00", "created_by": 1, "organisation_id": 8, "updated_by": 1}}, {"model": "core.User", "pk": 56, "fields": {"name": "Mrs Teresa Smith", "email": "mrsteresasmith@helixhaven.com", "username": "mrsteresasmith@helixhaven.com", "display_name": "Mrs Teresa Smith", "created_at": "2023-10-05 22:52:07.619877+01:00", "updated_at": "2023-10-05 22:52:07.619877+01:00", "created_by": 1, "organisation_id": 8, "updated_by": 1}}, {"model": "core.Organisation", "pk": 9, "fields": {"name": "GeneMosaic", "description": "Crafting unique genomic solutions.", "created_at": "2024-08-17 07:19:22.862463+01:00", "created_by": 1, "updated_at": "2024-08-17 07:19:22.862463+01:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 57, "fields": {"name": "Dr Sian Simpson", "email": "drsiansimpson@genemosaic.com", "username": "drsiansimpson@genemosaic.com", "display_name": "Dr Sian Simpson", "created_at": "2024-07-27 01:35:17.349098+01:00", "updated_at": "2024-07-27 01:35:17.349098+01:00", "created_by": 1, "organisation_id": 9, "updated_by": 1}}, {"model": "core.Organisation", "pk": 10, "fields": {"name": "BioDataSync", "description": "Synchronizing biological data for breakthroughs.", "created_at": "2023-12-25 12:08:47.022779+00:00", "created_by": 1, "updated_at": "2023-12-25 12:08:47.022779+00:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 58, "fields": {"name": "Max McCarthy", "email": "maxmccarthy@biodatasync.com", "username": "maxmccarthy@biodatasync.com", "display_name": "Max McCarthy", "created_at": "2023-10-03 06:33:46.918266+01:00", "updated_at": "2023-10-03 06:33:46.918266+01:00", "created_by": 1, "organisation_id": 10, "updated_by": 1}}, {"model": "core.User", "pk": 59, "fields": {"name": "Adrian Allen-Lowe", "email": "adrianallen-lowe@biodatasync.com", "username": "adrianallen-lowe@biodatasync.com", "display_name": "Adrian Allen-Lowe", "created_at": "2024-07-25 18:55:21.912464+01:00", "updated_at": "2024-07-25 18:55:21.912464+01:00", "created_by": 1, "organisation_id": 10, "updated_by": 1}}, {"model": "core.User", "pk": 60, "fields": {"name": "David Sullivan", "email": "davidsullivan@biodatasync.com", "username": "davidsullivan@biodatasync.com", "display_name": "David Sullivan", "created_at": "2024-08-02 14:12:11.758366+01:00", "updated_at": "2024-08-02 14:12:11.758366+01:00", "created_by": 1, "organisation_id": 10, "updated_by": 1}}, {"model": "core.User", "pk": 61, "fields": {"name": "Mr Norman Jones", "email": "mrnormanjones@biodatasync.com", "username": "mrnormanjones@biodatasync.com", "display_name": "Mr Norman Jones", "created_at": "2024-06-03 03:07:39.192118+01:00", "updated_at": "2024-06-03 03:07:39.192118+01:00", "created_by": 1, "organisation_id": 10, "updated_by": 1}}, {"model": "core.User", "pk": 62, "fields": {"name": "Jade Hooper", "email": "jadehooper@biodatasync.com", "username": "jadehooper@biodatasync.com", "display_name": "Jade Hooper", "created_at": "2023-11-29 06:06:35.760328+00:00", "updated_at": "2023-11-29 06:06:35.760328+00:00", "created_by": 1, "organisation_id": 10, "updated_by": 1}}, {"model": "core.Organisation", "pk": 11, "fields": {"name": "OmniGen", "description": "Universal solutions for genetic disorders.", "created_at": "2024-08-19 09:33:47.386302+01:00", "created_by": 1, "updated_at": "2024-08-19 09:33:47.386302+01:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 63, "fields": {"name": "Suzanne Lawson", "email": "suzannelawson@omnigen.com", "username": "suzannelawson@omnigen.com", "display_name": "Suzanne Lawson", "created_at": "2023-09-08 05:22:51.444996+01:00", "updated_at": "2023-09-08 05:22:51.444996+01:00", "created_by": 1, "organisation_id": 11, "updated_by": 1}}, {"model": "core.User", "pk": 64, "fields": {"name": "Tracey Page", "email": "traceypage@omnigen.com", "username": "traceypage@omnigen.com", "display_name": "Tracey Page", "created_at": "2023-10-09 20:53:57.973428+01:00", "updated_at": "2023-10-09 20:53:57.973428+01:00", "created_by": 1, "organisation_id": 11, "updated_by": 1}}, {"model": "core.User", "pk": 65, "fields": {"name": "Molly Winter", "email": "mollywinter@omnigen.com", "username": "mollywinter@omnigen.com", "display_name": "Molly Winter", "created_at": "2024-07-17 09:05:18.299946+01:00", "updated_at": "2024-07-17 09:05:18.299946+01:00", "created_by": 1, "organisation_id": 11, "updated_by": 1}}, {"model": "core.User", "pk": 66, "fields": {"name": "Dr Gareth Humphries", "email": "drgarethhumphries@omnigen.com", "username": "drgarethhumphries@omnigen.com", "display_name": "Dr Gareth Humphries", "created_at": "2024-06-13 09:18:07.263400+01:00", "updated_at": "2024-06-13 09:18:07.263400+01:00", "created_by": 1, "organisation_id": 11, "updated_by": 1}}, {"model": "core.User", "pk": 67, "fields": {"name": "Ms Jayne Mills", "email": "msjaynemills@omnigen.com", "username": "msjaynemills@omnigen.com", "display_name": "Ms Jayne Mills", "created_at": "2024-06-26 06:55:57.266403+01:00", "updated_at": "2024-06-26 06:55:57.266403+01:00", "created_by": 1, "organisation_id": 11, "updated_by": 1}}, {"model": "core.Organisation", "pk": 12, "fields": {"name": "BioSculpt", "description": "Shaping the future of genetic engineering.", "created_at": "2024-06-02 03:00:03.772479+01:00", "created_by": 1, "updated_at": "2024-06-02 03:00:03.772479+01:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 68, "fields": {"name": "Ashley Howard", "email": "ashleyhoward@biosculpt.com", "username": "ashleyhoward@biosculpt.com", "display_name": "Ashley Howard", "created_at": "2024-07-18 00:26:28.083939+01:00", "updated_at": "2024-07-18 00:26:28.083939+01:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.User", "pk": 69, "fields": {"name": "Mrs Joanna Walker", "email": "mrsjoannawalker@biosculpt.com", "username": "mrsjoannawalker@biosculpt.com", "display_name": "Mrs Joanna Walker", "created_at": "2023-09-18 13:05:55.369878+01:00", "updated_at": "2023-09-18 13:05:55.369878+01:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.User", "pk": 70, "fields": {"name": "Miss Francesca Fletcher", "email": "missfrancescafletcher@biosculpt.com", "username": "missfrancescafletcher@biosculpt.com", "display_name": "Miss Francesca Fletcher", "created_at": "2024-06-13 09:51:53.759968+01:00", "updated_at": "2024-06-13 09:51:53.759968+01:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.User", "pk": 71, "fields": {"name": "Diana Edwards", "email": "dianaedwards@biosculpt.com", "username": "dianaedwards@biosculpt.com", "display_name": "Diana Edwards", "created_at": "2023-09-16 07:02:24.882679+01:00", "updated_at": "2023-09-16 07:02:24.882679+01:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.User", "pk": 72, "fields": {"name": "Miss Jodie Lynch", "email": "missjodielynch@biosculpt.com", "username": "missjodielynch@biosculpt.com", "display_name": "Miss Jodie Lynch", "created_at": "2024-04-18 07:03:52.121749+01:00", "updated_at": "2024-04-18 07:03:52.121749+01:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.User", "pk": 73, "fields": {"name": "Glenn West", "email": "glennwest@biosculpt.com", "username": "glennwest@biosculpt.com", "display_name": "Glenn West", "created_at": "2023-09-22 20:41:59.740014+01:00", "updated_at": "2023-09-22 20:41:59.740014+01:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.User", "pk": 74, "fields": {"name": "Mrs Debra Green", "email": "mrsdebragreen@biosculpt.com", "username": "mrsdebragreen@biosculpt.com", "display_name": "Mrs Debra Green", "created_at": "2023-11-04 20:01:37.383605+00:00", "updated_at": "2023-11-04 20:01:37.383605+00:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.User", "pk": 75, "fields": {"name": "Pamela King", "email": "pamelaking@biosculpt.com", "username": "pamelaking@biosculpt.com", "display_name": "Pamela King", "created_at": "2023-11-02 15:49:19.577419+00:00", "updated_at": "2023-11-02 15:49:19.577419+00:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.User", "pk": 76, "fields": {"name": "June Coles", "email": "junecoles@biosculpt.com", "username": "junecoles@biosculpt.com", "display_name": "June Coles", "created_at": "2023-11-27 04:58:02.496723+00:00", "updated_at": "2023-11-27 04:58:02.496723+00:00", "created_by": 1, "organisation_id": 12, "updated_by": 1}}, {"model": "core.Organisation", "pk": 13, "fields": {"name": "ChromoPath", "description": "Leading the way in chromosomal analysis.", "created_at": "2023-10-05 21:04:24.778483+01:00", "created_by": 1, "updated_at": "2023-10-05 21:04:24.778483+01:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 77, "fields": {"name": "Dr Frederick Jones", "email": "drfrederickjones@chromopath.com", "username": "drfrederickjones@chromopath.com", "display_name": "Dr Frederick Jones", "created_at": "2024-01-03 05:24:03.529873+00:00", "updated_at": "2024-01-03 05:24:03.529873+00:00", "created_by": 1, "organisation_id": 13, "updated_by": 1}}, {"model": "core.User", "pk": 78, "fields": {"name": "Rosemary Wells", "email": "rosemarywells@chromopath.com", "username": "rosemarywells@chromopath.com", "display_name": "Rosemary Wells", "created_at": "2024-08-22 12:20:42.049387+01:00", "updated_at": "2024-08-22 12:20:42.049387+01:00", "created_by": 1, "organisation_id": 13, "updated_by": 1}}, {"model": "core.User", "pk": 79, "fields": {"name": "Mr Marc Williams", "email": "mrmarcwilliams@chromopath.com", "username": "mrmarcwilliams@chromopath.com", "display_name": "Mr Marc Williams", "created_at": "2023-12-17 11:06:42.238967+00:00", "updated_at": "2023-12-17 11:06:42.238967+00:00", "created_by": 1, "organisation_id": 13, "updated_by": 1}}, {"model": "core.User", "pk": 80, "fields": {"name": "Iain Bailey-Lowe", "email": "iainbailey-lowe@chromopath.com", "username": "iainbailey-lowe@chromopath.com", "display_name": "Iain Bailey-Lowe", "created_at": "2024-02-20 23:30:35.090334+00:00", "updated_at": "2024-02-20 23:30:35.090334+00:00", "created_by": 1, "organisation_id": 13, "updated_by": 1}}, {"model": "core.User", "pk": 81, "fields": {"name": "Alison Dixon", "email": "alisondixon@chromopath.com", "username": "alisondixon@chromopath.com", "display_name": "Alison Dixon", "created_at": "2024-06-28 11:08:43.402718+01:00", "updated_at": "2024-06-28 11:08:43.402718+01:00", "created_by": 1, "organisation_id": 13, "updated_by": 1}}, {"model": "core.User", "pk": 82, "fields": {"name": "Michelle Howarth-Gill", "email": "michellehowarth-gill@chromopath.com", "username": "michellehowarth-gill@chromopath.com", "display_name": "Michelle Howarth-Gill", "created_at": "2024-07-23 19:26:20.158870+01:00", "updated_at": "2024-07-23 19:26:20.158870+01:00", "created_by": 1, "organisation_id": 13, "updated_by": 1}}, {"model": "core.User", "pk": 83, "fields": {"name": "Ruth Turner", "email": "ruthturner@chromopath.com", "username": "ruthturner@chromopath.com", "display_name": "Ruth Turner", "created_at": "2023-09-14 06:42:27.455776+01:00", "updated_at": "2023-09-14 06:42:27.455776+01:00", "created_by": 1, "organisation_id": 13, "updated_by": 1}}, {"model": "core.User", "pk": 84, "fields": {"name": "Daniel Rose", "email": "danielrose@chromopath.com", "username": "danielrose@chromopath.com", "display_name": "Daniel Rose", "created_at": "2024-04-03 13:14:34.456526+01:00", "updated_at": "2024-04-03 13:14:34.456526+01:00", "created_by": 1, "organisation_id": 13, "updated_by": 1}}, {"model": "core.Organisation", "pk": 14, "fields": {"name": "GeneSphere", "description": "Expanding the horizons of genomic medicine.", "created_at": "2024-07-03 07:10:46.553408+01:00", "created_by": 1, "updated_at": "2024-07-03 07:10:46.553408+01:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 85, "fields": {"name": "Miss Gemma Sanderson", "email": "missgemmasanderson@genesphere.com", "username": "missgemmasanderson@genesphere.com", "display_name": "Miss Gemma Sanderson", "created_at": "2024-05-18 22:12:00.551100+01:00", "updated_at": "2024-05-18 22:12:00.551100+01:00", "created_by": 1, "organisation_id": 14, "updated_by": 1}}, {"model": "core.User", "pk": 86, "fields": {"name": "Chloe Lewis", "email": "chloelewis@genesphere.com", "username": "chloelewis@genesphere.com", "display_name": "Chloe Lewis", "created_at": "2024-03-25 01:05:55.924079+00:00", "updated_at": "2024-03-25 01:05:55.924079+00:00", "created_by": 1, "organisation_id": 14, "updated_by": 1}}, {"model": "core.User", "pk": 87, "fields": {"name": "Ms Sara Dickinson", "email": "mssaradickinson@genesphere.com", "username": "mssaradickinson@genesphere.com", "display_name": "Ms Sara Dickinson", "created_at": "2023-09-30 03:06:51.381618+01:00", "updated_at": "2023-09-30 03:06:51.381618+01:00", "created_by": 1, "organisation_id": 14, "updated_by": 1}}, {"model": "core.User", "pk": 88, "fields": {"name": "Anthony Daniels-Price", "email": "anthonydaniels-price@genesphere.com", "username": "anthonydaniels-price@genesphere.com", "display_name": "Anthony Daniels-Price", "created_at": "2023-12-28 15:49:40.373334+00:00", "updated_at": "2023-12-28 15:49:40.373334+00:00", "created_by": 1, "organisation_id": 14, "updated_by": 1}}, {"model": "core.User", "pk": 89, "fields": {"name": "Alison Ali", "email": "alisonali@genesphere.com", "username": "alisonali@genesphere.com", "display_name": "Alison Ali", "created_at": "2024-01-29 00:53:06.586710+00:00", "updated_at": "2024-01-29 00:53:06.586710+00:00", "created_by": 1, "organisation_id": 14, "updated_by": 1}}, {"model": "core.User", "pk": 90, "fields": {"name": "Ryan Coates", "email": "ryancoates@genesphere.com", "username": "ryancoates@genesphere.com", "display_name": "Ryan Coates", "created_at": "2024-01-14 18:54:11.077492+00:00", "updated_at": "2024-01-14 18:54:11.077492+00:00", "created_by": 1, "organisation_id": 14, "updated_by": 1}}, {"model": "core.User", "pk": 91, "fields": {"name": "Dr Amelia James", "email": "drameliajames@genesphere.com", "username": "drameliajames@genesphere.com", "display_name": "Dr Amelia James", "created_at": "2024-07-16 21:25:19.144561+01:00", "updated_at": "2024-07-16 21:25:19.144561+01:00", "created_by": 1, "organisation_id": 14, "updated_by": 1}}, {"model": "core.Organisation", "pk": 15, "fields": {"name": "BioForge", "description": "Building robust genetic therapies.", "created_at": "2023-11-28 10:35:26.447357+00:00", "created_by": 1, "updated_at": "2023-11-28 10:35:26.447357+00:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 92, "fields": {"name": "Jacob Wilson", "email": "jacobwilson@bioforge.com", "username": "jacobwilson@bioforge.com", "display_name": "Jacob Wilson", "created_at": "2024-07-06 20:29:57.266421+01:00", "updated_at": "2024-07-06 20:29:57.266421+01:00", "created_by": 1, "organisation_id": 15, "updated_by": 1}}, {"model": "core.User", "pk": 93, "fields": {"name": "Harry Wong-Roberts", "email": "harrywong-roberts@bioforge.com", "username": "harrywong-roberts@bioforge.com", "display_name": "Harry Wong-Roberts", "created_at": "2024-01-12 13:18:57.157931+00:00", "updated_at": "2024-01-12 13:18:57.157931+00:00", "created_by": 1, "organisation_id": 15, "updated_by": 1}}, {"model": "core.Organisation", "pk": 16, "fields": {"name": "HelixWave", "description": "Riding the wave of genetic discovery.", "created_at": "2023-11-08 19:59:38.931477+00:00", "created_by": 1, "updated_at": "2023-11-08 19:59:38.931477+00:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 94, "fields": {"name": "Nigel Clark", "email": "nigelclark@helixwave.com", "username": "nigelclark@helixwave.com", "display_name": "Nigel Clark", "created_at": "2024-04-05 21:31:15.549100+01:00", "updated_at": "2024-04-05 21:31:15.549100+01:00", "created_by": 1, "organisation_id": 16, "updated_by": 1}}, {"model": "core.User", "pk": 95, "fields": {"name": "Marie Bryant", "email": "mariebryant@helixwave.com", "username": "mariebryant@helixwave.com", "display_name": "Marie Bryant", "created_at": "2024-05-03 08:37:47.720609+01:00", "updated_at": "2024-05-03 08:37:47.720609+01:00", "created_by": 1, "organisation_id": 16, "updated_by": 1}}, {"model": "core.User", "pk": 96, "fields": {"name": "Miss Louise West", "email": "misslouisewest@helixwave.com", "username": "misslouisewest@helixwave.com", "display_name": "Miss Louise West", "created_at": "2023-12-21 08:25:41.023190+00:00", "updated_at": "2023-12-21 08:25:41.023190+00:00", "created_by": 1, "organisation_id": 16, "updated_by": 1}}, {"model": "core.User", "pk": 97, "fields": {"name": "Marian Martin", "email": "marianmartin@helixwave.com", "username": "marianmartin@helixwave.com", "display_name": "Marian Martin", "created_at": "2024-08-24 13:21:18.423214+01:00", "updated_at": "2024-08-24 13:21:18.423214+01:00", "created_by": 1, "organisation_id": 16, "updated_by": 1}}, {"model": "core.User", "pk": 98, "fields": {"name": "Ruth Price", "email": "ruthprice@helixwave.com", "username": "ruthprice@helixwave.com", "display_name": "Ruth Price", "created_at": "2023-11-05 03:32:00.393850+00:00", "updated_at": "2023-11-05 03:32:00.393850+00:00", "created_by": 1, "organisation_id": 16, "updated_by": 1}}, {"model": "core.Organisation", "pk": 17, "fields": {"name": "GenePulse", "description": "The heartbeat of advanced genomics.", "created_at": "2023-09-12 08:34:33.104034+01:00", "created_by": 1, "updated_at": "2023-09-12 08:34:33.104034+01:00", "updated_by": 1, "has_consented_to_share": false, "has_consented_to_store": false}}, {"model": "core.User", "pk": 99, "fields": {"name": "Owen Norton", "email": "owennorton@genepulse.com", "username": "owennorton@genepulse.com", "display_name": "Owen Norton", "created_at": "2024-06-02 03:17:19.603885+01:00", "updated_at": "2024-06-02 03:17:19.603885+01:00", "created_by": 1, "organisation_id": 17, "updated_by": 1}}, {"model": "core.User", "pk": 100, "fields": {"name": "Clive Stone", "email": "clivestone@genepulse.com", "username": "clivestone@genepulse.com", "display_name": "Clive Stone", "created_at": "2024-08-29 21:07:31.798631+01:00", "updated_at": "2024-08-29 21:07:31.798631+01:00", "created_by": 1, "organisation_id": 17, "updated_by": 1}}, {"model": "core.User", "pk": 101, "fields": {"name": "Dr Eric Johnson", "email": "drericjohnson@genepulse.com", "username": "drericjohnson@genepulse.com", "display_name": "Dr Eric Johnson", "created_at": "2024-02-17 06:44:31.066153+00:00", "updated_at": "2024-02-17 06:44:31.066153+00:00", "created_by": 1, "organisation_id": 17, "updated_by": 1}}, {"model": "core.Organisation", "pk": 18, "fields": {"name": "BioVista", "description": "Clear vision through genetic data.", "created_at": "2024-01-16 05:25:13.171262+00:00", "created_by": 1, "updated_at": "2024-01-16 05:25:13.171262+00:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 102, "fields": {"name": "Elizabeth Robinson", "email": "elizabethrobinson@biovista.com", "username": "elizabethrobinson@biovista.com", "display_name": "Elizabeth Robinson", "created_at": "2024-03-03 03:07:25.176090+00:00", "updated_at": "2024-03-03 03:07:25.176090+00:00", "created_by": 1, "organisation_id": 18, "updated_by": 1}}, {"model": "core.User", "pk": 103, "fields": {"name": "Leigh Stewart", "email": "leighstewart@biovista.com", "username": "leighstewart@biovista.com", "display_name": "Leigh Stewart", "created_at": "2024-05-06 04:58:15.361250+01:00", "updated_at": "2024-05-06 04:58:15.361250+01:00", "created_by": 1, "organisation_id": 18, "updated_by": 1}}, {"model": "core.User", "pk": 104, "fields": {"name": "Carl Sykes", "email": "carlsykes@biovista.com", "username": "carlsykes@biovista.com", "display_name": "Carl Sykes", "created_at": "2024-05-31 13:28:08.107622+01:00", "updated_at": "2024-05-31 13:28:08.107622+01:00", "created_by": 1, "organisation_id": 18, "updated_by": 1}}, {"model": "core.User", "pk": 105, "fields": {"name": "Mr Martin Grant", "email": "mrmartingrant@biovista.com", "username": "mrmartingrant@biovista.com", "display_name": "Mr Martin Grant", "created_at": "2024-03-26 09:29:11.681597+00:00", "updated_at": "2024-03-26 09:29:11.681597+00:00", "created_by": 1, "organisation_id": 18, "updated_by": 1}}, {"model": "core.User", "pk": 106, "fields": {"name": "Gavin Dean", "email": "gavindean@biovista.com", "username": "gavindean@biovista.com", "display_name": "Gavin Dean", "created_at": "2024-01-15 10:09:42.919160+00:00", "updated_at": "2024-01-15 10:09:42.919160+00:00", "created_by": 1, "organisation_id": 18, "updated_by": 1}}, {"model": "core.User", "pk": 107, "fields": {"name": "Laura Sinclair", "email": "laurasinclair@biovista.com", "username": "laurasinclair@biovista.com", "display_name": "Laura Sinclair", "created_at": "2024-07-31 14:28:28.183681+01:00", "updated_at": "2024-07-31 14:28:28.183681+01:00", "created_by": 1, "organisation_id": 18, "updated_by": 1}}, {"model": "core.User", "pk": 108, "fields": {"name": "Jade Davies-Davies", "email": "jadedavies-davies@biovista.com", "username": "jadedavies-davies@biovista.com", "display_name": "Jade Davies-Davies", "created_at": "2023-11-04 08:59:23.837593+00:00", "updated_at": "2023-11-04 08:59:23.837593+00:00", "created_by": 1, "organisation_id": 18, "updated_by": 1}}, {"model": "core.Organisation", "pk": 19, "fields": {"name": "GenomeSmith", "description": "Crafting precision genetics.", "created_at": "2024-04-20 02:25:18.782306+01:00", "created_by": 1, "updated_at": "2024-04-20 02:25:18.782306+01:00", "updated_by": 1, "has_consented_to_share": true, "has_consented_to_store": true}}, {"model": "core.User", "pk": 109, "fields": {"name": "Gareth Ward", "email": "garethward@genomesmith.com", "username": "garethward@genomesmith.com", "display_name": "Gareth Ward", "created_at": "2023-09-09 06:41:13.783424+01:00", "updated_at": "2023-09-09 06:41:13.783424+01:00", "created_by": 1, "organisation_id": 19, "updated_by": 1}}]
+[
+    {
+        "model": "core.User",
+        "pk": 1,
+        "fields": {
+            "name": "Admin User",
+            "email": "AdminUser@geneticsinc.com",
+            "username": "AdminUser@geneticsinc.com",
+            "display_name": "Admin User",
+            "created_at": "2024-07-25 12:09:44.817421+01:00",
+            "updated_at": "2024-07-25 12:09:44.817421+01:00",
+            "created_by": 1,
+            "organisation_id": null,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 0,
+        "fields": {
+            "name": "GeneHorizon",
+            "description": "Expanding the boundaries of genetic possibilities.",
+            "created_at": "2023-11-02 17:50:24.878300+00:00",
+            "created_by": 1,
+            "updated_at": "2023-11-02 17:50:24.878300+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 2,
+        "fields": {
+            "name": "Joshua Wright",
+            "email": "joshuawright@genehorizon.com",
+            "username": "joshuawright@genehorizon.com",
+            "display_name": "Joshua Wright",
+            "created_at": "2024-02-28 16:36:18.175375+00:00",
+            "updated_at": "2024-02-28 16:36:18.175375+00:00",
+            "created_by": 1,
+            "organisation_id": 0,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 3,
+        "fields": {
+            "name": "Ross Porter",
+            "email": "rossporter@genehorizon.com",
+            "username": "rossporter@genehorizon.com",
+            "display_name": "Ross Porter",
+            "created_at": "2024-06-22 18:30:13.186919+01:00",
+            "updated_at": "2024-06-22 18:30:13.186919+01:00",
+            "created_by": 1,
+            "organisation_id": 0,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 4,
+        "fields": {
+            "name": "Bethany Hussain",
+            "email": "bethanyhussain@genehorizon.com",
+            "username": "bethanyhussain@genehorizon.com",
+            "display_name": "Bethany Hussain",
+            "created_at": "2024-05-26 23:35:19.892326+01:00",
+            "updated_at": "2024-05-26 23:35:19.892326+01:00",
+            "created_by": 1,
+            "organisation_id": 0,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 5,
+        "fields": {
+            "name": "Antony Jackson",
+            "email": "antonyjackson@genehorizon.com",
+            "username": "antonyjackson@genehorizon.com",
+            "display_name": "Antony Jackson",
+            "created_at": "2024-08-10 15:12:49.933598+01:00",
+            "updated_at": "2024-08-10 15:12:49.933598+01:00",
+            "created_by": 1,
+            "organisation_id": 0,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 6,
+        "fields": {
+            "name": "Rhys Kerr",
+            "email": "rhyskerr@genehorizon.com",
+            "username": "rhyskerr@genehorizon.com",
+            "display_name": "Rhys Kerr",
+            "created_at": "2024-07-21 23:09:20.283658+01:00",
+            "updated_at": "2024-07-21 23:09:20.283658+01:00",
+            "created_by": 1,
+            "organisation_id": 0,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 7,
+        "fields": {
+            "name": "Anna Greenwood",
+            "email": "annagreenwood@genehorizon.com",
+            "username": "annagreenwood@genehorizon.com",
+            "display_name": "Anna Greenwood",
+            "created_at": "2024-07-27 03:24:47.909619+01:00",
+            "updated_at": "2024-07-27 03:24:47.909619+01:00",
+            "created_by": 1,
+            "organisation_id": 0,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 8,
+        "fields": {
+            "name": "Dr Josh Wright",
+            "email": "drjoshwright@genehorizon.com",
+            "username": "drjoshwright@genehorizon.com",
+            "display_name": "Dr Josh Wright",
+            "created_at": "2024-06-10 22:23:02.689490+01:00",
+            "updated_at": "2024-06-10 22:23:02.689490+01:00",
+            "created_by": 1,
+            "organisation_id": 0,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 9,
+        "fields": {
+            "name": "Ms Julia Jones",
+            "email": "msjuliajones@genehorizon.com",
+            "username": "msjuliajones@genehorizon.com",
+            "display_name": "Ms Julia Jones",
+            "created_at": "2024-06-08 11:29:50.932791+01:00",
+            "updated_at": "2024-06-08 11:29:50.932791+01:00",
+            "created_by": 1,
+            "organisation_id": 0,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 1,
+        "fields": {
+            "name": "GeneFutures",
+            "description": "Pioneering personalized genomics for tomorrow's health.",
+            "created_at": "2023-11-29 15:09:22.288230+00:00",
+            "created_by": 1,
+            "updated_at": "2023-11-29 15:09:22.288230+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 10,
+        "fields": {
+            "name": "Francis Ward",
+            "email": "francisward@genefutures.com",
+            "username": "francisward@genefutures.com",
+            "display_name": "Francis Ward",
+            "created_at": "2024-01-29 11:12:47.682751+00:00",
+            "updated_at": "2024-01-29 11:12:47.682751+00:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 11,
+        "fields": {
+            "name": "Craig Young",
+            "email": "craigyoung@genefutures.com",
+            "username": "craigyoung@genefutures.com",
+            "display_name": "Craig Young",
+            "created_at": "2023-11-06 15:16:29.700340+00:00",
+            "updated_at": "2023-11-06 15:16:29.700340+00:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 12,
+        "fields": {
+            "name": "Mr Leonard Gray",
+            "email": "mrleonardgray@genefutures.com",
+            "username": "mrleonardgray@genefutures.com",
+            "display_name": "Mr Leonard Gray",
+            "created_at": "2024-01-25 00:23:09.057212+00:00",
+            "updated_at": "2024-01-25 00:23:09.057212+00:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 13,
+        "fields": {
+            "name": "Dr James Mitchell",
+            "email": "drjamesmitchell@genefutures.com",
+            "username": "drjamesmitchell@genefutures.com",
+            "display_name": "Dr James Mitchell",
+            "created_at": "2024-06-11 06:49:35.639904+01:00",
+            "updated_at": "2024-06-11 06:49:35.639904+01:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 14,
+        "fields": {
+            "name": "Ms Beth Stephens",
+            "email": "msbethstephens@genefutures.com",
+            "username": "msbethstephens@genefutures.com",
+            "display_name": "Ms Beth Stephens",
+            "created_at": "2023-12-01 11:03:32.747546+00:00",
+            "updated_at": "2023-12-01 11:03:32.747546+00:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 15,
+        "fields": {
+            "name": "Laura Hope",
+            "email": "laurahope@genefutures.com",
+            "username": "laurahope@genefutures.com",
+            "display_name": "Laura Hope",
+            "created_at": "2023-11-04 10:57:14.790341+00:00",
+            "updated_at": "2023-11-04 10:57:14.790341+00:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 16,
+        "fields": {
+            "name": "Rita Hall",
+            "email": "ritahall@genefutures.com",
+            "username": "ritahall@genefutures.com",
+            "display_name": "Rita Hall",
+            "created_at": "2024-04-06 00:12:47.701139+01:00",
+            "updated_at": "2024-04-06 00:12:47.701139+01:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 17,
+        "fields": {
+            "name": "Christine Smith-Turner",
+            "email": "christinesmith-turner@genefutures.com",
+            "username": "christinesmith-turner@genefutures.com",
+            "display_name": "Christine Smith-Turner",
+            "created_at": "2024-07-23 07:36:06.038008+01:00",
+            "updated_at": "2024-07-23 07:36:06.038008+01:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 18,
+        "fields": {
+            "name": "Natalie Turner",
+            "email": "natalieturner@genefutures.com",
+            "username": "natalieturner@genefutures.com",
+            "display_name": "Natalie Turner",
+            "created_at": "2024-04-19 04:19:43.164831+01:00",
+            "updated_at": "2024-04-19 04:19:43.164831+01:00",
+            "created_by": 1,
+            "organisation_id": 1,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 2,
+        "fields": {
+            "name": "BioNexus",
+            "description": "Connecting biology with cutting-edge data science.",
+            "created_at": "2024-01-16 11:35:26.997677+00:00",
+            "created_by": 1,
+            "updated_at": "2024-01-16 11:35:26.997677+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 19,
+        "fields": {
+            "name": "Derek Parkin-Patel",
+            "email": "derekparkin-patel@bionexus.com",
+            "username": "derekparkin-patel@bionexus.com",
+            "display_name": "Derek Parkin-Patel",
+            "created_at": "2024-07-20 16:58:08.495101+01:00",
+            "updated_at": "2024-07-20 16:58:08.495101+01:00",
+            "created_by": 1,
+            "organisation_id": 2,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 20,
+        "fields": {
+            "name": "Mr Derek Kelly",
+            "email": "mrderekkelly@bionexus.com",
+            "username": "mrderekkelly@bionexus.com",
+            "display_name": "Mr Derek Kelly",
+            "created_at": "2024-05-01 07:47:42.880147+01:00",
+            "updated_at": "2024-05-01 07:47:42.880147+01:00",
+            "created_by": 1,
+            "organisation_id": 2,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 21,
+        "fields": {
+            "name": "Peter Wheeler",
+            "email": "peterwheeler@bionexus.com",
+            "username": "peterwheeler@bionexus.com",
+            "display_name": "Peter Wheeler",
+            "created_at": "2024-03-26 10:14:50.637435+00:00",
+            "updated_at": "2024-03-26 10:14:50.637435+00:00",
+            "created_by": 1,
+            "organisation_id": 2,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 3,
+        "fields": {
+            "name": "GenoMap",
+            "description": "Navigating the landscape of genetic information.",
+            "created_at": "2023-10-12 02:46:45.691919+01:00",
+            "created_by": 1,
+            "updated_at": "2023-10-12 02:46:45.691919+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 22,
+        "fields": {
+            "name": "Barbara Elliott",
+            "email": "barbaraelliott@genomap.com",
+            "username": "barbaraelliott@genomap.com",
+            "display_name": "Barbara Elliott",
+            "created_at": "2024-06-22 03:12:58.206169+01:00",
+            "updated_at": "2024-06-22 03:12:58.206169+01:00",
+            "created_by": 1,
+            "organisation_id": 3,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 23,
+        "fields": {
+            "name": "Dr Ronald Shaw",
+            "email": "drronaldshaw@genomap.com",
+            "username": "drronaldshaw@genomap.com",
+            "display_name": "Dr Ronald Shaw",
+            "created_at": "2024-06-01 21:26:31.545720+01:00",
+            "updated_at": "2024-06-01 21:26:31.545720+01:00",
+            "created_by": 1,
+            "organisation_id": 3,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 24,
+        "fields": {
+            "name": "Heather Francis",
+            "email": "heatherfrancis@genomap.com",
+            "username": "heatherfrancis@genomap.com",
+            "display_name": "Heather Francis",
+            "created_at": "2023-12-17 19:32:18.762179+00:00",
+            "updated_at": "2023-12-17 19:32:18.762179+00:00",
+            "created_by": 1,
+            "organisation_id": 3,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 25,
+        "fields": {
+            "name": "Marilyn Hughes",
+            "email": "marilynhughes@genomap.com",
+            "username": "marilynhughes@genomap.com",
+            "display_name": "Marilyn Hughes",
+            "created_at": "2023-09-15 17:12:51.534661+01:00",
+            "updated_at": "2023-09-15 17:12:51.534661+01:00",
+            "created_by": 1,
+            "organisation_id": 3,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 26,
+        "fields": {
+            "name": "Ms Kerry Taylor",
+            "email": "mskerrytaylor@genomap.com",
+            "username": "mskerrytaylor@genomap.com",
+            "display_name": "Ms Kerry Taylor",
+            "created_at": "2024-01-16 08:35:00.745988+00:00",
+            "updated_at": "2024-01-16 08:35:00.745988+00:00",
+            "created_by": 1,
+            "organisation_id": 3,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 27,
+        "fields": {
+            "name": "Brian Campbell",
+            "email": "briancampbell@genomap.com",
+            "username": "briancampbell@genomap.com",
+            "display_name": "Brian Campbell",
+            "created_at": "2024-05-07 15:31:16.697089+01:00",
+            "updated_at": "2024-05-07 15:31:16.697089+01:00",
+            "created_by": 1,
+            "organisation_id": 3,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 28,
+        "fields": {
+            "name": "Mrs Sheila Lowe",
+            "email": "mrssheilalowe@genomap.com",
+            "username": "mrssheilalowe@genomap.com",
+            "display_name": "Mrs Sheila Lowe",
+            "created_at": "2023-11-24 16:36:00.174896+00:00",
+            "updated_at": "2023-11-24 16:36:00.174896+00:00",
+            "created_by": 1,
+            "organisation_id": 3,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 29,
+        "fields": {
+            "name": "Laura Brown",
+            "email": "laurabrown@genomap.com",
+            "username": "laurabrown@genomap.com",
+            "display_name": "Laura Brown",
+            "created_at": "2024-07-01 05:01:50.720608+01:00",
+            "updated_at": "2024-07-01 05:01:50.720608+01:00",
+            "created_by": 1,
+            "organisation_id": 3,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 4,
+        "fields": {
+            "name": "DNARevolution",
+            "description": "Transforming lives through gene editing innovations.",
+            "created_at": "2024-05-28 19:24:42.394252+01:00",
+            "created_by": 1,
+            "updated_at": "2024-05-28 19:24:42.394252+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 30,
+        "fields": {
+            "name": "Dr Jeffrey Hartley",
+            "email": "drjeffreyhartley@dnarevolution.com",
+            "username": "drjeffreyhartley@dnarevolution.com",
+            "display_name": "Dr Jeffrey Hartley",
+            "created_at": "2023-12-03 16:22:20.419488+00:00",
+            "updated_at": "2023-12-03 16:22:20.419488+00:00",
+            "created_by": 1,
+            "organisation_id": 4,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 31,
+        "fields": {
+            "name": "Damien Clark",
+            "email": "damienclark@dnarevolution.com",
+            "username": "damienclark@dnarevolution.com",
+            "display_name": "Damien Clark",
+            "created_at": "2023-09-27 20:58:30.885615+01:00",
+            "updated_at": "2023-09-27 20:58:30.885615+01:00",
+            "created_by": 1,
+            "organisation_id": 4,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 32,
+        "fields": {
+            "name": "Jessica Fraser-Smith",
+            "email": "jessicafraser-smith@dnarevolution.com",
+            "username": "jessicafraser-smith@dnarevolution.com",
+            "display_name": "Jessica Fraser-Smith",
+            "created_at": "2024-05-21 19:44:07.890058+01:00",
+            "updated_at": "2024-05-21 19:44:07.890058+01:00",
+            "created_by": 1,
+            "organisation_id": 4,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 33,
+        "fields": {
+            "name": "Luke Sheppard",
+            "email": "lukesheppard@dnarevolution.com",
+            "username": "lukesheppard@dnarevolution.com",
+            "display_name": "Luke Sheppard",
+            "created_at": "2024-06-23 15:20:55.772803+01:00",
+            "updated_at": "2024-06-23 15:20:55.772803+01:00",
+            "created_by": 1,
+            "organisation_id": 4,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 34,
+        "fields": {
+            "name": "Eleanor Bartlett",
+            "email": "eleanorbartlett@dnarevolution.com",
+            "username": "eleanorbartlett@dnarevolution.com",
+            "display_name": "Eleanor Bartlett",
+            "created_at": "2024-05-02 10:18:43.766230+01:00",
+            "updated_at": "2024-05-02 10:18:43.766230+01:00",
+            "created_by": 1,
+            "organisation_id": 4,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 35,
+        "fields": {
+            "name": "Mandy Winter",
+            "email": "mandywinter@dnarevolution.com",
+            "username": "mandywinter@dnarevolution.com",
+            "display_name": "Mandy Winter",
+            "created_at": "2023-10-22 02:30:52.543360+01:00",
+            "updated_at": "2023-10-22 02:30:52.543360+01:00",
+            "created_by": 1,
+            "organisation_id": 4,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 36,
+        "fields": {
+            "name": "Alice Patel",
+            "email": "alicepatel@dnarevolution.com",
+            "username": "alicepatel@dnarevolution.com",
+            "display_name": "Alice Patel",
+            "created_at": "2024-07-30 19:37:46.330199+01:00",
+            "updated_at": "2024-07-30 19:37:46.330199+01:00",
+            "created_by": 1,
+            "organisation_id": 4,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 5,
+        "fields": {
+            "name": "SeqStream",
+            "description": "Seamlessly integrating sequencing technologies.",
+            "created_at": "2023-12-26 07:48:31.041703+00:00",
+            "created_by": 1,
+            "updated_at": "2023-12-26 07:48:31.041703+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 37,
+        "fields": {
+            "name": "Ms Yvonne Day",
+            "email": "msyvonneday@seqstream.com",
+            "username": "msyvonneday@seqstream.com",
+            "display_name": "Ms Yvonne Day",
+            "created_at": "2024-06-07 23:00:45.986893+01:00",
+            "updated_at": "2024-06-07 23:00:45.986893+01:00",
+            "created_by": 1,
+            "organisation_id": 5,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 38,
+        "fields": {
+            "name": "Victor Scott",
+            "email": "victorscott@seqstream.com",
+            "username": "victorscott@seqstream.com",
+            "display_name": "Victor Scott",
+            "created_at": "2024-06-02 05:26:38.896531+01:00",
+            "updated_at": "2024-06-02 05:26:38.896531+01:00",
+            "created_by": 1,
+            "organisation_id": 5,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 6,
+        "fields": {
+            "name": "GenoHealth",
+            "description": "Enhancing wellness through genetic insights.",
+            "created_at": "2023-12-07 05:27:26.059336+00:00",
+            "created_by": 1,
+            "updated_at": "2023-12-07 05:27:26.059336+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 39,
+        "fields": {
+            "name": "Dr Iain Shepherd",
+            "email": "driainshepherd@genohealth.com",
+            "username": "driainshepherd@genohealth.com",
+            "display_name": "Dr Iain Shepherd",
+            "created_at": "2024-04-10 11:03:35.714807+01:00",
+            "updated_at": "2024-04-10 11:03:35.714807+01:00",
+            "created_by": 1,
+            "organisation_id": 6,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 40,
+        "fields": {
+            "name": "Gerald White-Talbot",
+            "email": "geraldwhite-talbot@genohealth.com",
+            "username": "geraldwhite-talbot@genohealth.com",
+            "display_name": "Gerald White-Talbot",
+            "created_at": "2023-11-07 00:45:54.854078+00:00",
+            "updated_at": "2023-11-07 00:45:54.854078+00:00",
+            "created_by": 1,
+            "organisation_id": 6,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 41,
+        "fields": {
+            "name": "Ms Marilyn Hill",
+            "email": "msmarilynhill@genohealth.com",
+            "username": "msmarilynhill@genohealth.com",
+            "display_name": "Ms Marilyn Hill",
+            "created_at": "2024-08-07 14:44:03.396633+01:00",
+            "updated_at": "2024-08-07 14:44:03.396633+01:00",
+            "created_by": 1,
+            "organisation_id": 6,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 42,
+        "fields": {
+            "name": "Nathan Parry",
+            "email": "nathanparry@genohealth.com",
+            "username": "nathanparry@genohealth.com",
+            "display_name": "Nathan Parry",
+            "created_at": "2024-03-28 10:38:44.074320+00:00",
+            "updated_at": "2024-03-28 10:38:44.074320+00:00",
+            "created_by": 1,
+            "organisation_id": 6,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 43,
+        "fields": {
+            "name": "Dr Leslie Pugh",
+            "email": "drlesliepugh@genohealth.com",
+            "username": "drlesliepugh@genohealth.com",
+            "display_name": "Dr Leslie Pugh",
+            "created_at": "2024-05-13 13:23:05.634570+01:00",
+            "updated_at": "2024-05-13 13:23:05.634570+01:00",
+            "created_by": 1,
+            "organisation_id": 6,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 44,
+        "fields": {
+            "name": "Francesca Talbot",
+            "email": "francescatalbot@genohealth.com",
+            "username": "francescatalbot@genohealth.com",
+            "display_name": "Francesca Talbot",
+            "created_at": "2023-12-18 15:32:39.099178+00:00",
+            "updated_at": "2023-12-18 15:32:39.099178+00:00",
+            "created_by": 1,
+            "organisation_id": 6,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 7,
+        "fields": {
+            "name": "BioCode",
+            "description": "Decoding the secrets of the human genome.",
+            "created_at": "2024-08-04 01:32:07.403914+01:00",
+            "created_by": 1,
+            "updated_at": "2024-08-04 01:32:07.403914+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 45,
+        "fields": {
+            "name": "Dr Aimee Baxter",
+            "email": "draimeebaxter@biocode.com",
+            "username": "draimeebaxter@biocode.com",
+            "display_name": "Dr Aimee Baxter",
+            "created_at": "2023-11-08 00:59:05.057384+00:00",
+            "updated_at": "2023-11-08 00:59:05.057384+00:00",
+            "created_by": 1,
+            "organisation_id": 7,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 46,
+        "fields": {
+            "name": "Miss Jodie Day",
+            "email": "missjodieday@biocode.com",
+            "username": "missjodieday@biocode.com",
+            "display_name": "Miss Jodie Day",
+            "created_at": "2024-02-09 20:30:51.414548+00:00",
+            "updated_at": "2024-02-09 20:30:51.414548+00:00",
+            "created_by": 1,
+            "organisation_id": 7,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 47,
+        "fields": {
+            "name": "Jordan Jones",
+            "email": "jordanjones@biocode.com",
+            "username": "jordanjones@biocode.com",
+            "display_name": "Jordan Jones",
+            "created_at": "2024-03-30 01:50:45.691776+00:00",
+            "updated_at": "2024-03-30 01:50:45.691776+00:00",
+            "created_by": 1,
+            "organisation_id": 7,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 48,
+        "fields": {
+            "name": "Clifford Martin",
+            "email": "cliffordmartin@biocode.com",
+            "username": "cliffordmartin@biocode.com",
+            "display_name": "Clifford Martin",
+            "created_at": "2024-01-14 23:05:40.098994+00:00",
+            "updated_at": "2024-01-14 23:05:40.098994+00:00",
+            "created_by": 1,
+            "organisation_id": 7,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 49,
+        "fields": {
+            "name": "Gavin Saunders-Charlton",
+            "email": "gavinsaunders-charlton@biocode.com",
+            "username": "gavinsaunders-charlton@biocode.com",
+            "display_name": "Gavin Saunders-Charlton",
+            "created_at": "2023-09-20 11:02:46.258346+01:00",
+            "updated_at": "2023-09-20 11:02:46.258346+01:00",
+            "created_by": 1,
+            "organisation_id": 7,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 50,
+        "fields": {
+            "name": "Iain Donnelly",
+            "email": "iaindonnelly@biocode.com",
+            "username": "iaindonnelly@biocode.com",
+            "display_name": "Iain Donnelly",
+            "created_at": "2024-06-07 02:54:29.081241+01:00",
+            "updated_at": "2024-06-07 02:54:29.081241+01:00",
+            "created_by": 1,
+            "organisation_id": 7,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 51,
+        "fields": {
+            "name": "Louis Norton",
+            "email": "louisnorton@biocode.com",
+            "username": "louisnorton@biocode.com",
+            "display_name": "Louis Norton",
+            "created_at": "2023-12-07 15:33:06.450946+00:00",
+            "updated_at": "2023-12-07 15:33:06.450946+00:00",
+            "created_by": 1,
+            "organisation_id": 7,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 8,
+        "fields": {
+            "name": "HelixHaven",
+            "description": "Your partner in advanced genetic research.",
+            "created_at": "2024-02-18 08:23:21.469745+00:00",
+            "created_by": 1,
+            "updated_at": "2024-02-18 08:23:21.469745+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 52,
+        "fields": {
+            "name": "Julian Owen",
+            "email": "julianowen@helixhaven.com",
+            "username": "julianowen@helixhaven.com",
+            "display_name": "Julian Owen",
+            "created_at": "2023-11-06 18:36:01.501667+00:00",
+            "updated_at": "2023-11-06 18:36:01.501667+00:00",
+            "created_by": 1,
+            "organisation_id": 8,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 53,
+        "fields": {
+            "name": "Stephanie Dobson",
+            "email": "stephaniedobson@helixhaven.com",
+            "username": "stephaniedobson@helixhaven.com",
+            "display_name": "Stephanie Dobson",
+            "created_at": "2024-01-28 04:01:04.546514+00:00",
+            "updated_at": "2024-01-28 04:01:04.546514+00:00",
+            "created_by": 1,
+            "organisation_id": 8,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 54,
+        "fields": {
+            "name": "Kevin Griffiths",
+            "email": "kevingriffiths@helixhaven.com",
+            "username": "kevingriffiths@helixhaven.com",
+            "display_name": "Kevin Griffiths",
+            "created_at": "2023-09-25 02:56:58.736910+01:00",
+            "updated_at": "2023-09-25 02:56:58.736910+01:00",
+            "created_by": 1,
+            "organisation_id": 8,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 55,
+        "fields": {
+            "name": "Jake Knowles",
+            "email": "jakeknowles@helixhaven.com",
+            "username": "jakeknowles@helixhaven.com",
+            "display_name": "Jake Knowles",
+            "created_at": "2024-05-02 05:05:11.196327+01:00",
+            "updated_at": "2024-05-02 05:05:11.196327+01:00",
+            "created_by": 1,
+            "organisation_id": 8,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 56,
+        "fields": {
+            "name": "Mrs Teresa Smith",
+            "email": "mrsteresasmith@helixhaven.com",
+            "username": "mrsteresasmith@helixhaven.com",
+            "display_name": "Mrs Teresa Smith",
+            "created_at": "2023-10-05 22:52:07.619877+01:00",
+            "updated_at": "2023-10-05 22:52:07.619877+01:00",
+            "created_by": 1,
+            "organisation_id": 8,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 9,
+        "fields": {
+            "name": "GeneMosaic",
+            "description": "Crafting unique genomic solutions.",
+            "created_at": "2024-08-17 07:19:22.862463+01:00",
+            "created_by": 1,
+            "updated_at": "2024-08-17 07:19:22.862463+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 57,
+        "fields": {
+            "name": "Dr Sian Simpson",
+            "email": "drsiansimpson@genemosaic.com",
+            "username": "drsiansimpson@genemosaic.com",
+            "display_name": "Dr Sian Simpson",
+            "created_at": "2024-07-27 01:35:17.349098+01:00",
+            "updated_at": "2024-07-27 01:35:17.349098+01:00",
+            "created_by": 1,
+            "organisation_id": 9,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 10,
+        "fields": {
+            "name": "BioDataSync",
+            "description": "Synchronizing biological data for breakthroughs.",
+            "created_at": "2023-12-25 12:08:47.022779+00:00",
+            "created_by": 1,
+            "updated_at": "2023-12-25 12:08:47.022779+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 58,
+        "fields": {
+            "name": "Max McCarthy",
+            "email": "maxmccarthy@biodatasync.com",
+            "username": "maxmccarthy@biodatasync.com",
+            "display_name": "Max McCarthy",
+            "created_at": "2023-10-03 06:33:46.918266+01:00",
+            "updated_at": "2023-10-03 06:33:46.918266+01:00",
+            "created_by": 1,
+            "organisation_id": 10,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 59,
+        "fields": {
+            "name": "Adrian Allen-Lowe",
+            "email": "adrianallen-lowe@biodatasync.com",
+            "username": "adrianallen-lowe@biodatasync.com",
+            "display_name": "Adrian Allen-Lowe",
+            "created_at": "2024-07-25 18:55:21.912464+01:00",
+            "updated_at": "2024-07-25 18:55:21.912464+01:00",
+            "created_by": 1,
+            "organisation_id": 10,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 60,
+        "fields": {
+            "name": "David Sullivan",
+            "email": "davidsullivan@biodatasync.com",
+            "username": "davidsullivan@biodatasync.com",
+            "display_name": "David Sullivan",
+            "created_at": "2024-08-02 14:12:11.758366+01:00",
+            "updated_at": "2024-08-02 14:12:11.758366+01:00",
+            "created_by": 1,
+            "organisation_id": 10,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 61,
+        "fields": {
+            "name": "Mr Norman Jones",
+            "email": "mrnormanjones@biodatasync.com",
+            "username": "mrnormanjones@biodatasync.com",
+            "display_name": "Mr Norman Jones",
+            "created_at": "2024-06-03 03:07:39.192118+01:00",
+            "updated_at": "2024-06-03 03:07:39.192118+01:00",
+            "created_by": 1,
+            "organisation_id": 10,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 62,
+        "fields": {
+            "name": "Jade Hooper",
+            "email": "jadehooper@biodatasync.com",
+            "username": "jadehooper@biodatasync.com",
+            "display_name": "Jade Hooper",
+            "created_at": "2023-11-29 06:06:35.760328+00:00",
+            "updated_at": "2023-11-29 06:06:35.760328+00:00",
+            "created_by": 1,
+            "organisation_id": 10,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 11,
+        "fields": {
+            "name": "OmniGen",
+            "description": "Universal solutions for genetic disorders.",
+            "created_at": "2024-08-19 09:33:47.386302+01:00",
+            "created_by": 1,
+            "updated_at": "2024-08-19 09:33:47.386302+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 63,
+        "fields": {
+            "name": "Suzanne Lawson",
+            "email": "suzannelawson@omnigen.com",
+            "username": "suzannelawson@omnigen.com",
+            "display_name": "Suzanne Lawson",
+            "created_at": "2023-09-08 05:22:51.444996+01:00",
+            "updated_at": "2023-09-08 05:22:51.444996+01:00",
+            "created_by": 1,
+            "organisation_id": 11,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 64,
+        "fields": {
+            "name": "Tracey Page",
+            "email": "traceypage@omnigen.com",
+            "username": "traceypage@omnigen.com",
+            "display_name": "Tracey Page",
+            "created_at": "2023-10-09 20:53:57.973428+01:00",
+            "updated_at": "2023-10-09 20:53:57.973428+01:00",
+            "created_by": 1,
+            "organisation_id": 11,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 65,
+        "fields": {
+            "name": "Molly Winter",
+            "email": "mollywinter@omnigen.com",
+            "username": "mollywinter@omnigen.com",
+            "display_name": "Molly Winter",
+            "created_at": "2024-07-17 09:05:18.299946+01:00",
+            "updated_at": "2024-07-17 09:05:18.299946+01:00",
+            "created_by": 1,
+            "organisation_id": 11,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 66,
+        "fields": {
+            "name": "Dr Gareth Humphries",
+            "email": "drgarethhumphries@omnigen.com",
+            "username": "drgarethhumphries@omnigen.com",
+            "display_name": "Dr Gareth Humphries",
+            "created_at": "2024-06-13 09:18:07.263400+01:00",
+            "updated_at": "2024-06-13 09:18:07.263400+01:00",
+            "created_by": 1,
+            "organisation_id": 11,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 67,
+        "fields": {
+            "name": "Ms Jayne Mills",
+            "email": "msjaynemills@omnigen.com",
+            "username": "msjaynemills@omnigen.com",
+            "display_name": "Ms Jayne Mills",
+            "created_at": "2024-06-26 06:55:57.266403+01:00",
+            "updated_at": "2024-06-26 06:55:57.266403+01:00",
+            "created_by": 1,
+            "organisation_id": 11,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 12,
+        "fields": {
+            "name": "BioSculpt",
+            "description": "Shaping the future of genetic engineering.",
+            "created_at": "2024-06-02 03:00:03.772479+01:00",
+            "created_by": 1,
+            "updated_at": "2024-06-02 03:00:03.772479+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 68,
+        "fields": {
+            "name": "Ashley Howard",
+            "email": "ashleyhoward@biosculpt.com",
+            "username": "ashleyhoward@biosculpt.com",
+            "display_name": "Ashley Howard",
+            "created_at": "2024-07-18 00:26:28.083939+01:00",
+            "updated_at": "2024-07-18 00:26:28.083939+01:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 69,
+        "fields": {
+            "name": "Mrs Joanna Walker",
+            "email": "mrsjoannawalker@biosculpt.com",
+            "username": "mrsjoannawalker@biosculpt.com",
+            "display_name": "Mrs Joanna Walker",
+            "created_at": "2023-09-18 13:05:55.369878+01:00",
+            "updated_at": "2023-09-18 13:05:55.369878+01:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 70,
+        "fields": {
+            "name": "Miss Francesca Fletcher",
+            "email": "missfrancescafletcher@biosculpt.com",
+            "username": "missfrancescafletcher@biosculpt.com",
+            "display_name": "Miss Francesca Fletcher",
+            "created_at": "2024-06-13 09:51:53.759968+01:00",
+            "updated_at": "2024-06-13 09:51:53.759968+01:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 71,
+        "fields": {
+            "name": "Diana Edwards",
+            "email": "dianaedwards@biosculpt.com",
+            "username": "dianaedwards@biosculpt.com",
+            "display_name": "Diana Edwards",
+            "created_at": "2023-09-16 07:02:24.882679+01:00",
+            "updated_at": "2023-09-16 07:02:24.882679+01:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 72,
+        "fields": {
+            "name": "Miss Jodie Lynch",
+            "email": "missjodielynch@biosculpt.com",
+            "username": "missjodielynch@biosculpt.com",
+            "display_name": "Miss Jodie Lynch",
+            "created_at": "2024-04-18 07:03:52.121749+01:00",
+            "updated_at": "2024-04-18 07:03:52.121749+01:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 73,
+        "fields": {
+            "name": "Glenn West",
+            "email": "glennwest@biosculpt.com",
+            "username": "glennwest@biosculpt.com",
+            "display_name": "Glenn West",
+            "created_at": "2023-09-22 20:41:59.740014+01:00",
+            "updated_at": "2023-09-22 20:41:59.740014+01:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 74,
+        "fields": {
+            "name": "Mrs Debra Green",
+            "email": "mrsdebragreen@biosculpt.com",
+            "username": "mrsdebragreen@biosculpt.com",
+            "display_name": "Mrs Debra Green",
+            "created_at": "2023-11-04 20:01:37.383605+00:00",
+            "updated_at": "2023-11-04 20:01:37.383605+00:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 75,
+        "fields": {
+            "name": "Pamela King",
+            "email": "pamelaking@biosculpt.com",
+            "username": "pamelaking@biosculpt.com",
+            "display_name": "Pamela King",
+            "created_at": "2023-11-02 15:49:19.577419+00:00",
+            "updated_at": "2023-11-02 15:49:19.577419+00:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 76,
+        "fields": {
+            "name": "June Coles",
+            "email": "junecoles@biosculpt.com",
+            "username": "junecoles@biosculpt.com",
+            "display_name": "June Coles",
+            "created_at": "2023-11-27 04:58:02.496723+00:00",
+            "updated_at": "2023-11-27 04:58:02.496723+00:00",
+            "created_by": 1,
+            "organisation_id": 12,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 13,
+        "fields": {
+            "name": "ChromoPath",
+            "description": "Leading the way in chromosomal analysis.",
+            "created_at": "2023-10-05 21:04:24.778483+01:00",
+            "created_by": 1,
+            "updated_at": "2023-10-05 21:04:24.778483+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 77,
+        "fields": {
+            "name": "Dr Frederick Jones",
+            "email": "drfrederickjones@chromopath.com",
+            "username": "drfrederickjones@chromopath.com",
+            "display_name": "Dr Frederick Jones",
+            "created_at": "2024-01-03 05:24:03.529873+00:00",
+            "updated_at": "2024-01-03 05:24:03.529873+00:00",
+            "created_by": 1,
+            "organisation_id": 13,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 78,
+        "fields": {
+            "name": "Rosemary Wells",
+            "email": "rosemarywells@chromopath.com",
+            "username": "rosemarywells@chromopath.com",
+            "display_name": "Rosemary Wells",
+            "created_at": "2024-08-22 12:20:42.049387+01:00",
+            "updated_at": "2024-08-22 12:20:42.049387+01:00",
+            "created_by": 1,
+            "organisation_id": 13,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 79,
+        "fields": {
+            "name": "Mr Marc Williams",
+            "email": "mrmarcwilliams@chromopath.com",
+            "username": "mrmarcwilliams@chromopath.com",
+            "display_name": "Mr Marc Williams",
+            "created_at": "2023-12-17 11:06:42.238967+00:00",
+            "updated_at": "2023-12-17 11:06:42.238967+00:00",
+            "created_by": 1,
+            "organisation_id": 13,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 80,
+        "fields": {
+            "name": "Iain Bailey-Lowe",
+            "email": "iainbailey-lowe@chromopath.com",
+            "username": "iainbailey-lowe@chromopath.com",
+            "display_name": "Iain Bailey-Lowe",
+            "created_at": "2024-02-20 23:30:35.090334+00:00",
+            "updated_at": "2024-02-20 23:30:35.090334+00:00",
+            "created_by": 1,
+            "organisation_id": 13,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 81,
+        "fields": {
+            "name": "Alison Dixon",
+            "email": "alisondixon@chromopath.com",
+            "username": "alisondixon@chromopath.com",
+            "display_name": "Alison Dixon",
+            "created_at": "2024-06-28 11:08:43.402718+01:00",
+            "updated_at": "2024-06-28 11:08:43.402718+01:00",
+            "created_by": 1,
+            "organisation_id": 13,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 82,
+        "fields": {
+            "name": "Michelle Howarth-Gill",
+            "email": "michellehowarth-gill@chromopath.com",
+            "username": "michellehowarth-gill@chromopath.com",
+            "display_name": "Michelle Howarth-Gill",
+            "created_at": "2024-07-23 19:26:20.158870+01:00",
+            "updated_at": "2024-07-23 19:26:20.158870+01:00",
+            "created_by": 1,
+            "organisation_id": 13,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 83,
+        "fields": {
+            "name": "Ruth Turner",
+            "email": "ruthturner@chromopath.com",
+            "username": "ruthturner@chromopath.com",
+            "display_name": "Ruth Turner",
+            "created_at": "2023-09-14 06:42:27.455776+01:00",
+            "updated_at": "2023-09-14 06:42:27.455776+01:00",
+            "created_by": 1,
+            "organisation_id": 13,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 84,
+        "fields": {
+            "name": "Daniel Rose",
+            "email": "danielrose@chromopath.com",
+            "username": "danielrose@chromopath.com",
+            "display_name": "Daniel Rose",
+            "created_at": "2024-04-03 13:14:34.456526+01:00",
+            "updated_at": "2024-04-03 13:14:34.456526+01:00",
+            "created_by": 1,
+            "organisation_id": 13,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 14,
+        "fields": {
+            "name": "GeneSphere",
+            "description": "Expanding the horizons of genomic medicine.",
+            "created_at": "2024-07-03 07:10:46.553408+01:00",
+            "created_by": 1,
+            "updated_at": "2024-07-03 07:10:46.553408+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 85,
+        "fields": {
+            "name": "Miss Gemma Sanderson",
+            "email": "missgemmasanderson@genesphere.com",
+            "username": "missgemmasanderson@genesphere.com",
+            "display_name": "Miss Gemma Sanderson",
+            "created_at": "2024-05-18 22:12:00.551100+01:00",
+            "updated_at": "2024-05-18 22:12:00.551100+01:00",
+            "created_by": 1,
+            "organisation_id": 14,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 86,
+        "fields": {
+            "name": "Chloe Lewis",
+            "email": "chloelewis@genesphere.com",
+            "username": "chloelewis@genesphere.com",
+            "display_name": "Chloe Lewis",
+            "created_at": "2024-03-25 01:05:55.924079+00:00",
+            "updated_at": "2024-03-25 01:05:55.924079+00:00",
+            "created_by": 1,
+            "organisation_id": 14,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 87,
+        "fields": {
+            "name": "Ms Sara Dickinson",
+            "email": "mssaradickinson@genesphere.com",
+            "username": "mssaradickinson@genesphere.com",
+            "display_name": "Ms Sara Dickinson",
+            "created_at": "2023-09-30 03:06:51.381618+01:00",
+            "updated_at": "2023-09-30 03:06:51.381618+01:00",
+            "created_by": 1,
+            "organisation_id": 14,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 88,
+        "fields": {
+            "name": "Anthony Daniels-Price",
+            "email": "anthonydaniels-price@genesphere.com",
+            "username": "anthonydaniels-price@genesphere.com",
+            "display_name": "Anthony Daniels-Price",
+            "created_at": "2023-12-28 15:49:40.373334+00:00",
+            "updated_at": "2023-12-28 15:49:40.373334+00:00",
+            "created_by": 1,
+            "organisation_id": 14,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 89,
+        "fields": {
+            "name": "Alison Ali",
+            "email": "alisonali@genesphere.com",
+            "username": "alisonali@genesphere.com",
+            "display_name": "Alison Ali",
+            "created_at": "2024-01-29 00:53:06.586710+00:00",
+            "updated_at": "2024-01-29 00:53:06.586710+00:00",
+            "created_by": 1,
+            "organisation_id": 14,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 90,
+        "fields": {
+            "name": "Ryan Coates",
+            "email": "ryancoates@genesphere.com",
+            "username": "ryancoates@genesphere.com",
+            "display_name": "Ryan Coates",
+            "created_at": "2024-01-14 18:54:11.077492+00:00",
+            "updated_at": "2024-01-14 18:54:11.077492+00:00",
+            "created_by": 1,
+            "organisation_id": 14,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 91,
+        "fields": {
+            "name": "Dr Amelia James",
+            "email": "drameliajames@genesphere.com",
+            "username": "drameliajames@genesphere.com",
+            "display_name": "Dr Amelia James",
+            "created_at": "2024-07-16 21:25:19.144561+01:00",
+            "updated_at": "2024-07-16 21:25:19.144561+01:00",
+            "created_by": 1,
+            "organisation_id": 14,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 15,
+        "fields": {
+            "name": "BioForge",
+            "description": "Building robust genetic therapies.",
+            "created_at": "2023-11-28 10:35:26.447357+00:00",
+            "created_by": 1,
+            "updated_at": "2023-11-28 10:35:26.447357+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 92,
+        "fields": {
+            "name": "Jacob Wilson",
+            "email": "jacobwilson@bioforge.com",
+            "username": "jacobwilson@bioforge.com",
+            "display_name": "Jacob Wilson",
+            "created_at": "2024-07-06 20:29:57.266421+01:00",
+            "updated_at": "2024-07-06 20:29:57.266421+01:00",
+            "created_by": 1,
+            "organisation_id": 15,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 93,
+        "fields": {
+            "name": "Harry Wong-Roberts",
+            "email": "harrywong-roberts@bioforge.com",
+            "username": "harrywong-roberts@bioforge.com",
+            "display_name": "Harry Wong-Roberts",
+            "created_at": "2024-01-12 13:18:57.157931+00:00",
+            "updated_at": "2024-01-12 13:18:57.157931+00:00",
+            "created_by": 1,
+            "organisation_id": 15,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 16,
+        "fields": {
+            "name": "HelixWave",
+            "description": "Riding the wave of genetic discovery.",
+            "created_at": "2023-11-08 19:59:38.931477+00:00",
+            "created_by": 1,
+            "updated_at": "2023-11-08 19:59:38.931477+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 94,
+        "fields": {
+            "name": "Nigel Clark",
+            "email": "nigelclark@helixwave.com",
+            "username": "nigelclark@helixwave.com",
+            "display_name": "Nigel Clark",
+            "created_at": "2024-04-05 21:31:15.549100+01:00",
+            "updated_at": "2024-04-05 21:31:15.549100+01:00",
+            "created_by": 1,
+            "organisation_id": 16,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 95,
+        "fields": {
+            "name": "Marie Bryant",
+            "email": "mariebryant@helixwave.com",
+            "username": "mariebryant@helixwave.com",
+            "display_name": "Marie Bryant",
+            "created_at": "2024-05-03 08:37:47.720609+01:00",
+            "updated_at": "2024-05-03 08:37:47.720609+01:00",
+            "created_by": 1,
+            "organisation_id": 16,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 96,
+        "fields": {
+            "name": "Miss Louise West",
+            "email": "misslouisewest@helixwave.com",
+            "username": "misslouisewest@helixwave.com",
+            "display_name": "Miss Louise West",
+            "created_at": "2023-12-21 08:25:41.023190+00:00",
+            "updated_at": "2023-12-21 08:25:41.023190+00:00",
+            "created_by": 1,
+            "organisation_id": 16,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 97,
+        "fields": {
+            "name": "Marian Martin",
+            "email": "marianmartin@helixwave.com",
+            "username": "marianmartin@helixwave.com",
+            "display_name": "Marian Martin",
+            "created_at": "2024-08-24 13:21:18.423214+01:00",
+            "updated_at": "2024-08-24 13:21:18.423214+01:00",
+            "created_by": 1,
+            "organisation_id": 16,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 98,
+        "fields": {
+            "name": "Ruth Price",
+            "email": "ruthprice@helixwave.com",
+            "username": "ruthprice@helixwave.com",
+            "display_name": "Ruth Price",
+            "created_at": "2023-11-05 03:32:00.393850+00:00",
+            "updated_at": "2023-11-05 03:32:00.393850+00:00",
+            "created_by": 1,
+            "organisation_id": 16,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 17,
+        "fields": {
+            "name": "GenePulse",
+            "description": "The heartbeat of advanced genomics.",
+            "created_at": "2023-09-12 08:34:33.104034+01:00",
+            "created_by": 1,
+            "updated_at": "2023-09-12 08:34:33.104034+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": false,
+            "has_consented_to_store": false
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 99,
+        "fields": {
+            "name": "Owen Norton",
+            "email": "owennorton@genepulse.com",
+            "username": "owennorton@genepulse.com",
+            "display_name": "Owen Norton",
+            "created_at": "2024-06-02 03:17:19.603885+01:00",
+            "updated_at": "2024-06-02 03:17:19.603885+01:00",
+            "created_by": 1,
+            "organisation_id": 17,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 100,
+        "fields": {
+            "name": "Clive Stone",
+            "email": "clivestone@genepulse.com",
+            "username": "clivestone@genepulse.com",
+            "display_name": "Clive Stone",
+            "created_at": "2024-08-29 21:07:31.798631+01:00",
+            "updated_at": "2024-08-29 21:07:31.798631+01:00",
+            "created_by": 1,
+            "organisation_id": 17,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 101,
+        "fields": {
+            "name": "Dr Eric Johnson",
+            "email": "drericjohnson@genepulse.com",
+            "username": "drericjohnson@genepulse.com",
+            "display_name": "Dr Eric Johnson",
+            "created_at": "2024-02-17 06:44:31.066153+00:00",
+            "updated_at": "2024-02-17 06:44:31.066153+00:00",
+            "created_by": 1,
+            "organisation_id": 17,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 18,
+        "fields": {
+            "name": "BioVista",
+            "description": "Clear vision through genetic data.",
+            "created_at": "2024-01-16 05:25:13.171262+00:00",
+            "created_by": 1,
+            "updated_at": "2024-01-16 05:25:13.171262+00:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 102,
+        "fields": {
+            "name": "Elizabeth Robinson",
+            "email": "elizabethrobinson@biovista.com",
+            "username": "elizabethrobinson@biovista.com",
+            "display_name": "Elizabeth Robinson",
+            "created_at": "2024-03-03 03:07:25.176090+00:00",
+            "updated_at": "2024-03-03 03:07:25.176090+00:00",
+            "created_by": 1,
+            "organisation_id": 18,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 103,
+        "fields": {
+            "name": "Leigh Stewart",
+            "email": "leighstewart@biovista.com",
+            "username": "leighstewart@biovista.com",
+            "display_name": "Leigh Stewart",
+            "created_at": "2024-05-06 04:58:15.361250+01:00",
+            "updated_at": "2024-05-06 04:58:15.361250+01:00",
+            "created_by": 1,
+            "organisation_id": 18,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 104,
+        "fields": {
+            "name": "Carl Sykes",
+            "email": "carlsykes@biovista.com",
+            "username": "carlsykes@biovista.com",
+            "display_name": "Carl Sykes",
+            "created_at": "2024-05-31 13:28:08.107622+01:00",
+            "updated_at": "2024-05-31 13:28:08.107622+01:00",
+            "created_by": 1,
+            "organisation_id": 18,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 105,
+        "fields": {
+            "name": "Mr Martin Grant",
+            "email": "mrmartingrant@biovista.com",
+            "username": "mrmartingrant@biovista.com",
+            "display_name": "Mr Martin Grant",
+            "created_at": "2024-03-26 09:29:11.681597+00:00",
+            "updated_at": "2024-03-26 09:29:11.681597+00:00",
+            "created_by": 1,
+            "organisation_id": 18,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 106,
+        "fields": {
+            "name": "Gavin Dean",
+            "email": "gavindean@biovista.com",
+            "username": "gavindean@biovista.com",
+            "display_name": "Gavin Dean",
+            "created_at": "2024-01-15 10:09:42.919160+00:00",
+            "updated_at": "2024-01-15 10:09:42.919160+00:00",
+            "created_by": 1,
+            "organisation_id": 18,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 107,
+        "fields": {
+            "name": "Laura Sinclair",
+            "email": "laurasinclair@biovista.com",
+            "username": "laurasinclair@biovista.com",
+            "display_name": "Laura Sinclair",
+            "created_at": "2024-07-31 14:28:28.183681+01:00",
+            "updated_at": "2024-07-31 14:28:28.183681+01:00",
+            "created_by": 1,
+            "organisation_id": 18,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 108,
+        "fields": {
+            "name": "Jade Davies-Davies",
+            "email": "jadedavies-davies@biovista.com",
+            "username": "jadedavies-davies@biovista.com",
+            "display_name": "Jade Davies-Davies",
+            "created_at": "2023-11-04 08:59:23.837593+00:00",
+            "updated_at": "2023-11-04 08:59:23.837593+00:00",
+            "created_by": 1,
+            "organisation_id": 18,
+            "updated_by": 1
+        }
+    },
+    {
+        "model": "core.Organisation",
+        "pk": 19,
+        "fields": {
+            "name": "GenomeSmith",
+            "description": "Crafting precision genetics.",
+            "created_at": "2024-04-20 02:25:18.782306+01:00",
+            "created_by": 1,
+            "updated_at": "2024-04-20 02:25:18.782306+01:00",
+            "updated_by": 1,
+            "has_consented_to_share": true,
+            "has_consented_to_store": true
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 109,
+        "fields": {
+            "name": "Gareth Ward",
+            "email": "garethward@genomesmith.com",
+            "username": "garethward@genomesmith.com",
+            "display_name": "Gareth Ward",
+            "created_at": "2023-09-09 06:41:13.783424+01:00",
+            "updated_at": "2023-09-09 06:41:13.783424+01:00",
+            "created_by": 1,
+            "organisation_id": 19,
+            "updated_by": 1
+        }
+    }
+]
